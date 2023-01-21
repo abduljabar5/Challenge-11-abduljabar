@@ -12,13 +12,14 @@ This project was interesting. what kept me motivated was the little challenges i
 
 ## Installation
 
-https://abduljabar5.github.io/Challenge-11-abduljabar/
+https://challenge-11-abduljabar.herokuapp.com/
 
 ## Usage
 
 you take notes on the right which then gets saved to the left.
 
-![Alt text](assets/img/portfolio.png)
+![picture of application]<img width="1440" alt="Screenshot 2023-01-21 at 1 55 02 PM" src="https://user-images.githubusercontent.com/115905200/213884852-46b36d60-cfc4-4d23-9652-7a054b8fa11c.png">
+
 
 ## Credits
 google.com
