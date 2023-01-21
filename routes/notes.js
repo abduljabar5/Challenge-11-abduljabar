@@ -32,6 +32,14 @@ notes.post('/', (req, res) => {
       res.json('Error in posting notes');
     }
   });
+  notes.delete('/:id', function (req, res) {
+
+    let id = req.params.id;
+
+    //DELETE YOUR RECORD WITH YOUR PARAM.
+
+    return res.status(200);
+})
   
   module.exports = notes;
   
